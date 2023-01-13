@@ -10,3 +10,10 @@
 <img align="left" title="XSuperMeteorX's GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XSuperMeteorX&show_icons=true&count_private=true&theme=tokyonight" width="50%" height="200px" />
 
 <img align="right" title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="45%" height="200px"/>
+
+## Languages & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50px" height="50px" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50px" height="50px" />&nbsp;
