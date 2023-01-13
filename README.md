@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm XSuperMeteorX. (MukingIce).
-<input value="https://v1.hitokoto.cn/?encode=text" disabled>
+
 [![XSuperMeteorX's Bilibili Channel](https://img.shields.io/badge/Bilibili-MukingIce-ff69b4?style=flat&logo=bilibili)](https://space.bilibili.com/382123050)
 - 🔭 I’m currently working on *Iceglass Team*.
 - 🌱 I’m currently learning **Elementary Mathematics** and **Plane Geometry**.
