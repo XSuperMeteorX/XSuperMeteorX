@@ -7,6 +7,6 @@
 - 😄 Pronouns: Lazy
 - ⚡ Fun fact: So Lazy, lol
 
-![XSuperMeteorX's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XSuperMeteorX&show_icons=true&count_private=true&theme=tokyonight)
+<img align="left" title="XSuperMeteorX's GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XSuperMeteorX&show_icons=true&count_private=true&theme=tokyonight" width="50%" height="200px" />
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="right" title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="45%" height="200px"/>
