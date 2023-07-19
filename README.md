@@ -1,11 +1,11 @@
-### Hi there 👋 I'm XSuperMeteorX. (MukingIce).
+### Hi there 👋 I'm Maki.
 
-[![XSuperMeteorX's Bilibili Channel](https://img.shields.io/badge/Bilibili-MukingIce-ff69b4?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/382123050)
+[![Maki's Bilibili Channel](https://img.shields.io/badge/Bilibili-MukingIce-ff69b4?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/382123050)
 ![Hitokoto Panel](https://img.shields.io/badge/dynamic/json?color=critical&label=一言&query=$.hitokoto&url=https://v1.hitokoto.cn/&style=for-the-badge)
 - 🔭 I’m currently working on *Iceglass Team*.
 - 🌱 I’m currently learning **Elementary Mathematics** and **Plane Geometry**.
 - 💬 Ask me about from __*bilibili*__ or *our website(Upcoming)*.
-- 📫 How to reach me: you can [mail me](mailto:saffronwalk2137@foxmail.com). **(Click "mail me")**
+- 📫 How to reach me: you can [mail me](mailto:makitimmy*delete*1014@gmail.com). **(Click "mail me")**
 - 😄 Pronouns: Lazy
 - ⚡ Fun fact: So Lazy, lol
 <img align="right" title="XSuperMeteorX's GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XSuperMeteorX&show_icons=true&count_private=true&theme=tokyonight" width="54%" height="275px" />&nbsp;
